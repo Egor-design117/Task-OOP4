@@ -3,7 +3,7 @@
 <h2>О проекте</h2>
 <p>WPF-приложение для аутентификации пользователей с использованием:</p>
 <ul>
-    <li>Entity Framework Core (ORM)</li>
+    <li>Entity Framework Core </li>
     <li>SQLite (встроенная БД)</li>
 </ul>
 
